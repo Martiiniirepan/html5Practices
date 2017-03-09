@@ -1,0 +1,49 @@
+body{
+	background-color: #F9FF84;
+}
+header img{
+width: 200px;
+height: 100px;
+display: inline;
+}
+header h1{
+	font-style: italic;
+	background-color: #A01711;
+	color: #F6FF42;
+	font-size: 60px;
+	text-align: center;
+}
+header h2{
+	text-align: right;
+	font-style: italic;
+	display: inline;
+}
+#header{
+	display: inline;
+}
+nav{
+	text-align: center;
+	background-color: #A01711;
+	font-size: 20px;
+	border-style: outset;
+	border: solid;
+	border-color: #D83434;
+}
+nav a{
+	color: white;
+}
+section p{
+	font-size: 20px;
+}
+section img{
+	width: 400px;
+	height: 300px;
+}
+hr{
+	color: #A01711;
+	border: solid;
+}
+footer p{
+	font-style: italic;
+	text-align: center;
+}
